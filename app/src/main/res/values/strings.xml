@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo_title">Todo</string>
+    <string name="todo_title_completed">Completed</string>
+    <string name="title_activity_my_view_pager">MyViewPager</string>
+</resources>
